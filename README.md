@@ -16,7 +16,7 @@ attrited customers (up from 2.8% to 66.2%) on the same data.
 
 This demo was mostly just about pruning datasets to enhance features on DNNs.
 The random forest implementation compared to this (pretty basic) DNN was both faster 
-and more accurate. Goes to show that when all you have is a hammer everything
+and more accurate. Goes to show that when all you have is a hammer, everything
 looks like a nail.
 
 Cheers for reading!
